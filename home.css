@@ -12,7 +12,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: left;
-  background-color: #bba0de;
+  background-color: #ddc2ff;
 }
 .rightcolumn {
   float: right;
@@ -24,8 +24,7 @@ body {
   width: 70%;
 }
 .card {
-  text-color: #14001a;
-  background-color: #ddc2ff;
+  background-color: #f6c3f7;
   padding: 20px;
   margin-top: 20px;
 }
@@ -37,7 +36,7 @@ body {
 .footer {
   padding: 20px;
   text-align: left;
-  background: #bba0de;
+  background: #ddc2ff;
   margin-top: 20px;
 }
   .leftcolumn, .rightcolumn {
