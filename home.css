@@ -3,16 +3,16 @@
 }
 
 body {
-  font-family: Arial;
-  color: #14001a;
-  padding: 20px;
-  background: #ffecb8;
+  font-family: Monospace;
+  color: #140034;
+  padding: 10px;
+  background: #140034;
 }
 .header {
-  padding: 30px;
+  padding: 5px;
   font-size: 40px;
   text-align: left;
-  background-color: #ddc2ff;
+  background-color: #ebfffa;
 }
 .rightcolumn {
   float: right;
@@ -24,7 +24,7 @@ body {
   width: 70%;
 }
 .card {
-  background-color: #f6c3f7;
+  background-color: #ebfffa;
   padding: 20px;
   margin-top: 20px;
 }
@@ -36,11 +36,6 @@ body {
 .footer {
   padding: 20px;
   text-align: left;
-  background: #ddc2ff;
+  background: #ebfffa;
   margin-top: 20px;
-}
-  .leftcolumn, .rightcolumn {
-    width: 100%;
-    padding: 0;
-  }
 }
