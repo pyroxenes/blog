@@ -5,13 +5,13 @@
 body {
   font-family: Arial;
   padding: 20px;
-  text-color: #eeeeee
   background: #ffecb8;
 }
 .header {
   padding: 30px;
   font-size: 40px;
   text-align: left;
+  color: #14001a;
   background-color: rgba(0, 0, 0, 2)
   background: white;
 }
@@ -30,6 +30,7 @@ body {
   padding: 20px;
 }
 .card {
+  color: #14001a;
   background-color: #bdfdff;
   padding: 20px;
   margin-top: 20px;
