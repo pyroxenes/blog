@@ -25,7 +25,8 @@ body {
 .fakeimg {
   background-color: #bdfdff;
   width: 100%;
-  padding: 20px;
+  left-padding: 20px;
+  right-padding: 20px;
 }
 .card {
   background-color: #bdfdff;
