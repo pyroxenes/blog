@@ -1,4 +1,3 @@
-/* CSS styles */
  {
   box-sizing: border-box;
 }
@@ -31,7 +30,7 @@ body {
 }
 .scrollcontainer {
    height: 30%;
-   overflow-x: hidden;
+   overflow-X: hidden;
 }
 .scroll {
   text-align: left;
