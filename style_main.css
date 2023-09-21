@@ -5,19 +5,19 @@
 body {
   font-family: Monospace;
   color: #140034;
-  padding: 10px;
+  padding: 5px;
   background: #140034;
 }
 .header {
-  padding: 10px;
-  font-size: 40px;
+  padding: 1%;
+  font-size: 225%;
   text-align: left;
   background-color: #ebfffa;
 }
 .rightcolumn {
   float: right;
   width: 25%;
-  padding-left: 20px;
+  padding-left: 3%;
 }
 .leftcolumn {
   float: left;
@@ -25,15 +25,21 @@ body {
 }
 .card {
   background-color: #ebfffa;
-  padding: 20px;
-  margin-top: 20px;
+  padding: 1%;
+  margin-top: 6%;
+}
+.scrollcontainer {
+   overflow-x: hidden;
 }
 .scroll {
   text-align: left;
   width: 100%;
-  height: 370px;
-  padding: 20px;
-  overflow-x: scroll;
+  height: 60%;
+  padding: 1%;
+  border: solid #140034;
+  background-clip: content-box; /* <---- */
+  box-shadow: inset 10 1 1 2% lightGreen;
+  overflow-y: scroll;
 }
 .row:after {
   content: "";
@@ -41,10 +47,10 @@ body {
   clear: both;
 }
 .footer {
-  padding: 5px;
+  padding: 0.5%;
   text-align: center;
   background: #ebfffa;
-  margin-top: 20px;
+  margin-top: 2%;
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn { 
