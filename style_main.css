@@ -35,7 +35,7 @@ body {
 .scroll {
   text-align: left;
   width: 100%;
-  height: 60%;
+  height: 30%;
   padding: 1%;
   border: solid #140034;
   overflow-y: scroll;
