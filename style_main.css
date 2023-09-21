@@ -38,8 +38,6 @@ body {
   height: 60%;
   padding: 1%;
   border: solid #140034;
-  background-clip: content-box; /* <---- */
-  box-shadow: inset 10 1 1 2% lightGreen;
   overflow-y: scroll;
 }
 .row:after {
