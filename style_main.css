@@ -28,6 +28,12 @@ body {
   padding: 20px;
   margin-top: 20px;
 }
+.scroll {
+  text-align: left;
+  width: 100%;
+  height: 70%;
+  overflow-x: scroll;
+}
 .row:after {
   content: "";
   display: table;
