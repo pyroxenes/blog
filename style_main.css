@@ -1,8 +1,13 @@
  {
   box-sizing: border-box;
 }
-#content::-webkit-scrollbar {
-    display: none;
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 body {
   font-family: Monospace;
