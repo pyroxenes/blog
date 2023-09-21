@@ -30,12 +30,12 @@ body {
   margin-top: 6%;
 }
 .scrollcontainer {
+   height: 30%;
    overflow-x: hidden;
 }
 .scroll {
   text-align: left;
   width: 100%;
-  height: 30%;
   padding: 1%;
   border: solid #140034;
   overflow-y: scroll;
