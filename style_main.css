@@ -30,7 +30,7 @@ body {
 }
 .scrollcontainer {
    height: 370px;
-   overflow-X: hidden;
+   overflow: hidden;
 }
 .scroll {
   text-align: left;
