@@ -136,8 +136,12 @@
     }
 	.slider2 { position: relative; }
 
-  @media screen and (max-width: 800px) {
-    .leftcolumn, .rightcolumn { 
+   @media screen and (max-width: 800px) {
+    .leftcolumn { 
       width: 100%;
       padding: 0;
     }
+	.rightcolumn {
+		width: 100%;
+		padding:0;
+	}
