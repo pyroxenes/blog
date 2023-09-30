@@ -74,14 +74,7 @@
 	border-radius: 10px;
   } 
 hr {
-	display: block;
-       position: relative;
-       padding: 0;
-       margin: 8px auto;
-       height: 5vh;
-       width: 100%;
-       font-size: 1px;
-       line-height: 0;
+       line-height: 2vh;
        clear: both;
        border: none;
        border-top: 1px solid #ebfffa;
