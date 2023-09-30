@@ -13,8 +13,9 @@
     background: #140034;
   }
   .header {
-    margin: 0%;
-    padding: 1%;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
     font-size: 225%;
     text-align: left;
     background-color: #ebfffa;
