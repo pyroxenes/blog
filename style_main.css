@@ -66,6 +66,10 @@
     margin-top: 2%;
 	border-radius: 10px;
   } 
+.hover {
+	color: #ebfffa ;
+  background-color: #140034 ;
+}
 .caption-box {
   font-size: 50%;
   text-align: center;
