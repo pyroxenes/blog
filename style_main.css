@@ -78,7 +78,7 @@ hr {
        position: relative;
        padding: 0;
        margin: 8px auto;
-       height: 0;
+       height: 2vh;
        width: 100%;
        max-height: 0;
        font-size: 1px;
