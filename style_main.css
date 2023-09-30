@@ -18,7 +18,7 @@
     text-align: left;
     background-color: #ebfffa;
 	opacity: 0.95;
-	border-radius: 25px;
+	border-radius: 5px;
   }
   .rightcolumn {
     float: right;
@@ -66,16 +66,52 @@
 	border-radius: 10px;
   } 
 .caption-box {
-  font-size: 170%;
+  font-size: 70%;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
   margin-left: calc(100%/80);
-  height: 10%;
-  width:15%;
+  height: 5%;
+  width:8%;
   background-color: #ebfffa;
   opacity: 0.75;
-  border-radius: 10px;
+  border-radius: 2px;
+}
+.caption-box2 {
+  font-size: 70%;
+  color: #140034;
+  padding: 1% 1%;
+  position: absolute;
+  margin-left: calc((100%/80) + 11%);
+  height: 5%;
+  width:8%;
+  background-color: #ebfffa;
+  opacity: 0.75;
+  border-radius: 2px;
+}
+.caption-box3 {
+  font-size: 70%;
+  color: #140034;
+  padding: 1% 1%;
+  position: absolute;
+  margin-left: calc((100%/80) + (11% * 2));
+  height: 5%;
+  width:8%;
+  background-color: #ebfffa;
+  opacity: 0.75;
+  border-radius: 2px;
+}
+.caption-box4 {
+  font-size: 70%;
+  color: #140034;
+  padding: 1% 1%;
+  position: absolute;
+  margin-left: calc((100%/80) + (11% * 3));
+  height: 5%;
+  width:8%;
+  background-color: #ebfffa;
+  opacity: 0.75;
+  border-radius: 2px;
 }
     #slideshow {
         overflow: hidden;
@@ -136,7 +172,7 @@
     }
 	.slider2 { position: relative; }
 
-   @media screen and (max-width: 800px) {
+  @media screen and (max-width: 800px) {
     .leftcolumn { 
       width: 100%;
       padding: 0;
