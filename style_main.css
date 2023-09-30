@@ -67,6 +67,7 @@
   } 
 .caption-box {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
@@ -79,6 +80,7 @@
 }
 .caption-box2 {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
@@ -91,6 +93,7 @@
 }
 .caption-box3 {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
@@ -103,6 +106,7 @@
 }
 .caption-box4 {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
@@ -115,6 +119,7 @@
 }
 .caption-box5 {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
@@ -127,6 +132,7 @@
 }
 .caption-box6 {
   font-size: 50%;
+  text-align: center;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
