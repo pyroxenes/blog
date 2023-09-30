@@ -9,12 +9,12 @@
     scrollbar-width: none;
     font-family: Monospace;
     color: #140034;
-    padding: 0px;
+    padding: 15px;
     background: #140034;
   }
   .header {
     margin: 0;
-    padding: 1;
+    padding: 1%;
     font-size: 225%;
     text-align: left;
     background-color: #ebfffa;
