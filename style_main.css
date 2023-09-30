@@ -13,7 +13,8 @@
     background: #140034;
   }
   .header {
-    padding: 0%;
+    margin: 0%;
+    padding: 1%;
     font-size: 225%;
     text-align: left;
     background-color: #ebfffa;
