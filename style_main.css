@@ -13,7 +13,7 @@
     background: #140034;
   }
   .header {
-    height: 15vh;
+    height: 25vh;
     margin: 0;
     padding: 1%;
     font-size: 225%;
@@ -215,7 +215,7 @@
     clear: both;
   }
 	   .header {
-    height: 30vh;
+    height: 35vh;
     margin: 0;
     padding: 1%;
     font-size: 200%;
