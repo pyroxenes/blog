@@ -145,7 +145,7 @@
 }
     #slideshow {
         overflow: hidden;
-        height: 300px;
+        height: auto;
         width: 100%;
         margin: auto;
     }
@@ -214,7 +214,7 @@
       width: 100%;
       padding: 0;
     }
-	.rightcolumn {
+    .rightcolumn {
 		width: 100%;
 		padding:0;
-	}
+    }
