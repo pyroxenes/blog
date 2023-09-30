@@ -18,7 +18,7 @@
     padding: 1%;
     font-size: 225%;
     text-align: left;
-    verticle-align: bottom;
+    padding-bottom: 0.2vh;
     background-color: #ebfffa;
 	opacity: 0.95;
 	border-radius: 5px;
@@ -220,7 +220,7 @@
     padding: 1%;
     font-size: 200%;
     text-align: left;
-    verticle-align: bottom;
+    padding-bottom: 0.2vh;
     background-color: #ebfffa;
 	opacity: 0.95;
 	border-radius: 5px;
