@@ -18,6 +18,7 @@
     padding: 1%;
     font-size: 225%;
     text-align: left;
+    verticle-aligh: bottom;
     padding-bottom: 0vh;
     background-color: #ebfffa;
 	opacity: 0.95;
@@ -218,7 +219,7 @@ hr {
     clear: both;
   }
 	   .header {
-    height: 35vh;
+    height: 20vh;
     margin: 0;
     padding: 1%;
     font-size: 200%;
