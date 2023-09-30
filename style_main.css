@@ -1,4 +1,4 @@
-{
+  {
     box-sizing: border-box;
   }
   .example::-webkit-scrollbar {
@@ -72,9 +72,9 @@
   color: #140034;
   padding: 1% 1%;
   position: absolute;
-  margin-left: calc((100%/80));
+  margin-left: 5%;
   height: 2%;
-  width:15%;
+  width:10%;
   background-color: #ebfffa;
   opacity: 0.85;
   border-radius: 2px;
@@ -85,9 +85,9 @@
   color: #140034;
   padding: 1% 1%;
   position: absolute;
-  margin-left: calc((100%/80) + (17.5% * 1));
+   margin-left: 20%;
   height: 2%;
-  width:15%;
+  width:10%;
   background-color: #ebfffa;
   opacity: 0.85;
   border-radius: 2px;
@@ -98,9 +98,9 @@
   color: #140034;
   padding: 1% 1%;
   position: absolute;
-  margin-left: calc((100%/80) + (17.5% * 2));
+   margin-left: 37.5%;
   height: 2%;
-  width:15%;
+  width:10%;
   background-color: #ebfffa;
   opacity: 0.85;
   border-radius: 2px;
@@ -111,9 +111,9 @@
   color: #140034;
   padding: 1% 1%;
   position: absolute;
-  margin-left: calc((100%/80) + (17.5% * 3));
+   margin-left: 60%;
   height: 2%;
-  width:15%;
+  width:10%;
   background-color: #ebfffa;
   opacity: 0.85;
   border-radius: 2px;
@@ -124,22 +124,9 @@
   color: #140034;
   padding: 1% 1%;
   position: absolute;
-  margin-left: calc((100%/80) + (17.5% * 4));
+   margin-left: 75%;
   height: 2%;
-  width:15%;
-  background-color: #ebfffa;
-  opacity: 0.85;
-  border-radius: 2px;
-}
-.caption-box6 {
-  font-size: 50%;
-  text-align: center;
-  color: #140034;
-  padding: 1% 1%;
-  position: absolute;
-  margin-left: calc((100%/80) + (17.5% * 5));
-  height: 2%;
-  width:15%;
+  width:10%;
   background-color: #ebfffa;
   opacity: 0.85;
   border-radius: 2px;
@@ -211,6 +198,11 @@
 	.slider2 { position: relative; }
 
   @media screen and (max-width: 800px) {
+     .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
     .leftcolumn { 
       width: 100%;
       padding: 0;
