@@ -66,12 +66,13 @@
 	border-radius: 10px;
   } 
 .caption-box {
+  font-size: 170%;
   color: #140034;
   padding: 1% 1%;
   position: absolute;
   margin-left: calc(100%/80);
-  height: 20px;
-  width:150px;
+  height: 10%;
+  width:15%;
   background-color: #ebfffa;
   opacity: 0.75;
   border-radius: 10px;
