@@ -214,6 +214,17 @@
     display: table;
     clear: both;
   }
+	   .header {
+    height: 22.5vh;
+    margin: 0;
+    padding: 1%;
+    font-size: 200%;
+    text-align: left;
+    verticle-align: bottom;
+    background-color: #ebfffa;
+	opacity: 0.95;
+	border-radius: 5px;
+  }
     .leftcolumn { 
       width: 100%;
       padding: 0;
