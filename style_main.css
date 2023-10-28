@@ -5,7 +5,7 @@
     display: none;
   }
   body {
-    min-height: 199vh;
+    min-height: 65vh;
    -ms-overflow-style: none;
     scrollbar-width: none;
     font-family: Monospace;
