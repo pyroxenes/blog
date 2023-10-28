@@ -185,7 +185,10 @@
 	.slider2 {
 		 position: relative;
 	}
-
+  .pagefull {
+	  height: 70vh;
+	  padding: 4vh;
+  }
   .footer {
     height: 5vh;
     padding-bottom: 1.5vh;
