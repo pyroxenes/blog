@@ -87,8 +87,8 @@
     background-color: #ebfffa;
     padding: 1%;
     margin-top: 6%;
-	opacity: 0.95;
-	border-radius: 10px;
+    opacity: 0.95;
+    border-radius: 10px;
   }
 
   .scrollcontainer {
@@ -186,8 +186,12 @@
 		 position: relative;
 	}
   .pagefull {
-	  height: 70vh;
-	  padding: 4vh;
+    height: 70vh;
+    background-color: #ebfffa;
+    padding: 1%;
+    margin-top: 6%;
+    opacity: 0.95;
+    border-radius: 10px;
   }
   .footer {
     height: 5vh;
