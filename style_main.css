@@ -13,12 +13,12 @@
     background: #140034;
   }
   .header {
-    height: 25vh;
+    height: 15vh;
     margin: 0;
     padding: 1%;
     font-size: 225%;
     text-align: left;
-    verticle-aligh: bottom;
+    verticle-aligh: center;
     padding-bottom: 0vh;
     background-color: #ebfffa;
 	opacity: 0.95;
@@ -69,6 +69,7 @@
   }
   .footer {
     padding: 0.5%;
+    font-size: 5%;
     text-align: center;
     background: #ebfffa;
     margin-top: 2%;
