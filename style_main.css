@@ -55,7 +55,7 @@
   }
   
   .scrollcontainer {
-     height: 370px;
+     height: auto;
      overflow-x: hidden;
   }
   .scroll {
@@ -91,7 +91,7 @@ hr {
   color: #140034;
   padding: 1%;
   position: absolute;
-  margin-left: 15%;
+  margin-left: 12%;
   height: 3%;
   width:10%;
   background-color: #ebfffa;
@@ -104,7 +104,7 @@ hr {
   color: #140034;
   padding: 1%;
   position: absolute;
-   margin-left: 35%;
+   margin-left: 32%;
   height: 3%;
   width:10%;
   background-color: #ebfffa;
@@ -117,7 +117,7 @@ hr {
   color: #140034;
   padding: 1%;
   position: absolute;
-   margin-left: 55%;
+   margin-left: 52%;
   height: 3%;
   width:10%;
   background-color: #ebfffa;
@@ -130,7 +130,7 @@ hr {
   color: #140034;
   padding: 1%;
   position: absolute;
-   margin-left: 75%;
+   margin-left: 72%;
   height: 3%;
   width:10%;
   background-color: #ebfffa;
@@ -204,14 +204,14 @@ hr {
     }
 	.slider2 { position: relative; }
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1000px) {
      .row:after {
     content: "";
     display: table;
     clear: both;
   }
 	   .header {
-    height: 20vh;
+    height: 9vh;
     margin: 0;
     padding: 1%;
     font-size: 200%;
