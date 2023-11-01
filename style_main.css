@@ -193,11 +193,9 @@
     opacity: 0.95;
     border-radius: 10px;
   }
-  .images {
+  .zzz {
     height: 15vh;
-    width: auto;
     float: right;
-    object-fit: contain
   }
   .footer {
     height: auto;
