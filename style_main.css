@@ -200,7 +200,7 @@
     object-fit: contain
   }
   .footer {
-    height: 5vh;
+    height: auto;
     padding-bottom: 1.5vh;
     font-size: 2vh;
     text-align: center;
@@ -313,7 +313,7 @@
     object-fit: contain
   }
 .footer {
-    height: 5vh;
+    height: auto;
     padding-bottom: 1.5vh;
     font-size: .75vh;
     text-align: center;
