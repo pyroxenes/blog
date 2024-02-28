@@ -48,7 +48,7 @@
 
   .rightcolumn {
     float: right;
-    width: 19.5%;
+    width: 19%;
     padding-left: 1vh;
   }
 
@@ -126,6 +126,7 @@
     text-align: center;
     background: #ebfffa;
     margin-top: 20vh;
+    padding-bottom: 1.5vh;
     bottom: 0;
     width: 100%;
     height: 2.5rem;
