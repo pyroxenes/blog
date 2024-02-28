@@ -2,7 +2,7 @@
     display: none;
   }
 
-  body {
+  body1 {
     min-height: 100vh;
    -ms-overflow-style: none;
     scrollbar-width: none;
@@ -159,7 +159,7 @@
     background-color: #ebfffa;
     }
 	
-  body {
+  body1 {
     min-height: 150vh;
   }
     .footer {
