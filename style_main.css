@@ -17,6 +17,7 @@
     height: 10vh;
     font-size: 14pt;
     text-align: left;
+    text-ident: 2vh;
     verticle-aligh: center;
     background-color: #effefa;
   }
@@ -125,8 +126,7 @@
   .footer {
     font-size: 8pt;
     text-align: center;
-    text-color: effefa;
-    opacity: 0;
+    color: #effefa;
     margin-top: 20vh;
     padding-bottom: 1.75vh;
     bottom: 0;
@@ -139,7 +139,6 @@
     bottom: 0;
     left: 0;
   }
-
 
   .row:after {
     display: table;
@@ -169,7 +168,7 @@
     .footer {
     font-size: 10pt;
     text-align: center;
-    background: #effefa;
+    color: #effefa;
     margin-top: 20vh;
     padding-bottom: 1.75vh;
     bottom: 0;
