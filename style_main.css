@@ -9,8 +9,8 @@
     font-family: Monospace;
     display: flex;
     flex-direction: column;
-    color: #140034;
-    background: #140034;
+    color: #fff9ff;
+    background: #fff9ff;
   }
 
   .header {
@@ -18,16 +18,16 @@
     font-size: 14pt;
     text-align: left;
     verticle-aligh: center;
-    background-color: #ebfffa;
+    background-color: #effefa;
   }
 
   .card {
-    background-color: #ebfffa;
+    background-color: #effefa;
     padding: 1%;
     margin-top: 1%;
   }
   .card1 {
-    background-color: #ebfffa;
+    background-color: #effefa;
     padding: 1%;
     margin-top: 5%;
   }
@@ -40,7 +40,7 @@
   .scroll {
     text-align: left;
     width: 100%;
-    border: solid #140034;
+    border: solid #fff9ff;
     overflow-y: scroll;
   }
 
@@ -95,6 +95,9 @@
     			.slide:nth-child(5) {
 				max-height: 20%;
     			}
+			.slide:nth-child(6) {
+				max-height: 20%;
+    			}
 
     		@keyframes slide {
 
@@ -122,7 +125,7 @@
   .footer {
     font-size: 8pt;
     text-align: center;
-    background: #ebfffa;
+    background: #effefa;
     margin-top: 20vh;
     padding-bottom: 1.75vh;
     bottom: 0;
@@ -156,7 +159,7 @@
     font-size: 200%;
     text-align: left;
     padding-bottom: 0.2vh;
-    background-color: #ebfffa;
+    background-color: #effefa;
     }
 	
   body {
@@ -165,7 +168,7 @@
     .footer {
     font-size: 10pt;
     text-align: center;
-    background: #ebfffa;
+    background: #effefa;
     margin-top: 20vh;
     padding-bottom: 1.75vh;
     bottom: 0;
